@@ -6,29 +6,29 @@ The Railway Reservation System is a web-based application designed to facilitate
 
 Features
 
-User Registration & Authentication
+ -> User Registration & Authentication
 
-Train Search & Reservation
+ -> Train Search & Reservation
 
-Booking Confirmation & Ticket Generation
+ -> Booking Confirmation & Ticket Generation
 
-Admin Dashboard for Management
+ -> Admin Dashboard for Management
 
-Responsive UI for Better User Experience
+ -> Responsive UI for Better User Experience
 
 Technologies Used
 
-Frontend: HTML, CSS, JavaScript
+   Frontend: HTML, CSS, JavaScript
 
-Backend: PHP
+   Backend: PHP
 
-Database: MySQL
+   Database: MySQL
 
 Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Railway-Reservation-System.git
+      git clone https://github.com/Rahul2817/Railway-Reservation-System.git
 
 Import the database (database.sql) into MySQL.
 
@@ -38,7 +38,8 @@ Start the server using XAMPP or any local server.
 
 Access the application via http://localhost/railway-reservation.
 
-Usage
+
+==> Usage
 
 Register/Login as a user.
 
@@ -48,6 +49,7 @@ View booking details and download tickets.
 
 Admin can manage trains, bookings, and users.
 
+
 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
@@ -56,7 +58,3 @@ License
 
 This project is open-source and available under the MIT License.
 
-Contact
-
-For any queries, reach out to [your email] or visit the project repository at:
-GitHub Repository
